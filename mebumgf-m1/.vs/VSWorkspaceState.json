@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\controllers",
+    "\\models",
+    "\\views",
+    "\\views\\category",
+    "\\views\\product",
+    "\\web",
+    "\\web\\images"
+  ],
+  "SelectedNode": "\\models\\Category.php",
+  "PreviewInSolutionExplorer": false
+}
